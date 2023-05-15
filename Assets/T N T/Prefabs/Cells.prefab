@@ -11,7 +11,8 @@ GameObject:
   - component: {fileID: 8209248299414141155}
   - component: {fileID: 7059561121557153999}
   - component: {fileID: 4699527906374611807}
-  - component: {fileID: -2879102402784643934}
+  - component: {fileID: -9000539907225416688}
+  - component: {fileID: -2068238694301476209}
   m_Layer: 0
   m_Name: Cells
   m_TagString: Untagged
@@ -78,7 +79,7 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
---- !u!114 &-2879102402784643934
+--- !u!114 &-9000539907225416688
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -93,6 +94,23 @@ MonoBehaviour:
   cellImage: {fileID: 1610351002465887683}
   tent: {fileID: 21300000, guid: 5179488c678b94556a05cc6e4ecbe33a, type: 3}
   currentState: 0
+  Fn: {fileID: -2068238694301476209}
+  row: 0
+  column: 0
+--- !u!114 &-2068238694301476209
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3806762914851931729}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9dea3e776868b432bb74f1ff6bb4975a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cols: 5
+  rows: 5
 --- !u!1 &7703592149651067228
 GameObject:
   m_ObjectHideFlags: 0
