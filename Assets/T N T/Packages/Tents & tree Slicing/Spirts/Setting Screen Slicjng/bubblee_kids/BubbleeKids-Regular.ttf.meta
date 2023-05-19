@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 405843cf552894d8d9e8724db0906b63
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Bubblee Kids
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 541da09a73e7846f1978d29b3aee12aa, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

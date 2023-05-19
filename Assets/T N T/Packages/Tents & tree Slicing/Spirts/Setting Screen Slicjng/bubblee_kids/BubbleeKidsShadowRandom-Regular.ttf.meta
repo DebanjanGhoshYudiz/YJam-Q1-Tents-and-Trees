@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 73aeec13cfefc4753a2526a989451412
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Bubblee Kids Shadow Random
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3f12b817daf304786be24401d1a0576f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
